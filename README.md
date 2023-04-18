@@ -62,6 +62,7 @@
 ## Portage salarial
 
 - [Jump](https://www.join-jump.com/)
+- [Embarq](https://www.embarq.fr/)
 - [Freedom Portage](https://freedomportage.com/)
 - [Prium Portage](https://prium-portage.com/)
 
@@ -91,6 +92,12 @@
 - [Expensya](https://www.expensya.com/fr)
 - [Tiime](https://tiime.fr/)
 
+
+## Banque / Compte pro
+
+- [Qonto](https://qonto.com/fr)
+- [Shine](https://www.shine.fr/)
+
 ## Factures / Invoices
 
 - [Facture.net](https://www.facture.net/) (gratuit)
@@ -104,6 +111,18 @@
 - [Zervant](https://www.zervant.com/)
 - [Wave](https://www.waveapps.com/accounting/freelancers)
 
+
+## Création d’entreprise
+
+- [Simplitoo](https://www.simplitoo.fr/)
+
+## CE
+
+- [Uggy](https://uggy.io/)
+
+## Retraite
+
+- [Caravel](https://www.getcaravel.fr/)
 
 ## Tools
 
