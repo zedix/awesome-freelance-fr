@@ -1,32 +1,35 @@
 # Awesome Freelance FR [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+- [Comparatif de 79 sites (via Pylote)](https://airtable.com/shr3fRtfLTryl0YoV/tbli29C4ZdaKD4qKz)
+
 ## Plate-formes
 
 - [Amazing Dev](https://amazing.dev/)
 - [Beelance.io](https://beelance.io/)
-- [CherryPick](https://app.cherry-pick.io/)
+- [Bloomays](https://www.bloomays.com/) (+20% client)
+- [CherryPick](https://app.cherry-pick.io/) (+15% client)
 - [Collective](https://www.collective.work/)
-- [Comet](https://hellocomet.co/) (TJ-5%)
+- [Comet](https://hellocomet.co/) (-5% freelance)
 - [ComputerFutures](https://www.computerfutures.com/fr-fr/)
-- [Creme de la creme](https://cremedelacreme.io)
-- [Free-Work](https://www.free-work.com/fr/tech-it)
+- [Creme de la creme](https://cremedelacreme.io) (-15% freelance)
+- [Free-Work](https://www.free-work.com/fr/tech-it) (0% freelance)
 - [Freelance.com](https://plateforme.freelance.com/)
 - [Freelancer.com](https://www.freelancer.com/)
 - [FreelanceAddict](https://freelanceaddict.com/)
-- [FreelanceFactory](https://freelance-factory.fr/) Plateforme de freelances dédiée à l’industrie
-- [FreelanceRepublik](https://www.freelancerepublik.com/) (TJ-10%)
+- [FreelanceFactory](https://freelance-factory.fr/) Plateforme de freelances dédiée à l’industrie  (+8% client)
+- [FreelanceRepublik](https://www.freelancerepublik.com/) (+15% client)
 - [HireSweet](https://www.hiresweet.com/fr-fr/home)
+- [HumanCraft](https://www.humancraft.eu/) (+15% client)
 - [LeGratin.io](https://www.legratin.io/)
 - [LeHibou](https://www.lehibou.com/)
 - [Little Big Connection](https://www.littlebigconnection.com/fr/)
 - [Malt](https://www.malt.fr/)
 - [Mon consulant indépendant](https://www.mon-consultant-independant.com/)
 - [People per hour](https://www.peopleperhour.com/)
-- [Staar](https://staar.co/)
-- [Talent.io](https://www.talent.io/p/fr-fr/home) (TJ+15%)
+- [Silkhom](https://www.silkhom.com/)
+- [Talent.io](https://www.talent.io/p/fr-fr/home) (+15% client)
 - [TopTal](https://www.toptal.com/)
-- [UpWay](https://www.upway.io/fr/)
-- [WebJobs](https://webjobs.tech/fr)
+- [UpWay](https://www.upway.io/fr/) (+18% client)
 - [Yeets](https://www.yeets.fr/)
 - [Upwork](https://www.upwork.com/)
 
@@ -85,6 +88,7 @@
 - [Facture.net](https://www.facture.net/) (gratuit)
 - [Facturatio.pro](https://www.facturation.pro/)
 - [Henrri](https://www.henrri.com/)
+- [Kolirys](https://www.kolirys.fr/) (payant)
 - [Bonsai](https://www.hellobonsai.com/)
 - [Invoiced](https://invoiced.com/)
 - [Freeshbooks](https://www.freshbooks.com/)
@@ -95,6 +99,6 @@
 
 ## Tools
 
-- [Pylote](https://pylote.io)
+- [Pylote](https://pylote.io/)
 - [Freely](https://www.freely.tax/)
 - [Wethos](https://www.wethos.co/)
