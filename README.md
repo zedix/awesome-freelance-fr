@@ -40,6 +40,11 @@
 - [Gigster](https://gigster.com/)
 - [PandaPooling](https://www.pandopooling.com/)
 
+## Cabinets de recrutement
+
+- [SkillWise](https://www.skillwise.fr/)
+- [MobiSkills](https://mobiskill.fr/)
+
 ## Communautés
 
 - [Cautioneo](https://www.cautioneo.com/)
@@ -54,20 +59,23 @@
 - [Hiscox](https://www.hiscox.fr/)
 - [Macif](https://www.macif.fr/assurance/professionnels-et-entreprises/artisans-commercants-professions-liberales/multigarantie-activite-professionnelle)
 
-## Portages
+## Portage salarial
 
 - [Jump](https://www.join-jump.com/)
+- [Freedom Portage](https://freedomportage.com/)
+- [Prium Portage](https://prium-portage.com/)
 
 ## Deals
 
 - [Freelance Stack](https://www.freelance-stack.io/)
 - [Secret](https://www.joinsecret.com)
-
+- [Coalise](https://www.coalise.com/)
 
 ## Comptabilité (Low Cost)
 
 - [Acasi](https://www.acasi.io/)
 - [Indy](https://www.indy.fr/) (ex georges.tech)
+- [Comptalib](https://www.comptalib.com/)
 - [Dougs](https://www.dougs.fr/)
 - [Numbr](https://numbr.co/) (ex novaa) (Tiime)
 - [OnLicorn](https://onlicorn.fr/)
