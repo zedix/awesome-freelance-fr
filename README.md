@@ -18,7 +18,7 @@
 - [FreelanceAddict](https://freelanceaddict.com/)
 - [FreelanceFactory](https://freelance-factory.fr/) Plateforme de freelances dédiée à l’industrie  (+8% client)
 - [FreelanceRepublik](https://www.freelancerepublik.com/) (+15% client)
-- [HireSweet](https://www.hiresweet.com/fr-fr/home)
+- [HireSweet](https://www.hiresweet.com/fr-fr/home) CDI
 - [HumanCraft](https://www.humancraft.eu/) (+15% client)
 - [LeGratin.io](https://www.legratin.io/)
 - [LeHibou](https://www.lehibou.com/)
@@ -40,10 +40,12 @@
 - [Gigster](https://gigster.com/)
 - [PandaPooling](https://www.pandopooling.com/)
 
-## Cabinets de recrutement
+## Cabinets / agences
 
 - [SkillWise](https://www.skillwise.fr/)
 - [MobiSkills](https://mobiskill.fr/)
+- [CleverMind](https://www.clevermind.fr/) (+10% client)
+- [NextMondays](https://nextmondays.com/)
 
 ## Communautés
 
