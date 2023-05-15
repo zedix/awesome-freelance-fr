@@ -71,6 +71,7 @@
 - [Embarq](https://www.embarq.fr/)
 - [Freedom Portage](https://freedomportage.com/)
 - [Prium Portage](https://prium-portage.com/)
+- [STA Portage](https://www.sta-portage.com/)
 
 ## Deals
 
