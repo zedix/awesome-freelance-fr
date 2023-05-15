@@ -40,6 +40,10 @@
 - [Gigster](https://gigster.com/)
 - [PandaPooling](https://www.pandopooling.com/)
 
+## Communautés d’experts indépendants
+
+- [Cober](https://www.cober.fr/)
+
 ## Cabinets / agences
 
 - [SkillWise](https://www.skillwise.fr/)
@@ -125,6 +129,11 @@
 ## Retraite
 
 - [Caravel](https://www.getcaravel.fr/)
+
+
+## Media & Podcasts
+
+- [FreelanceTalks](https://talks.freelancerepublik.com/)
 
 ## Tools
 
