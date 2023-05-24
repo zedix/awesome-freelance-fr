@@ -44,12 +44,13 @@
 
 - [Cober](https://www.cober.fr/)
 
-## Cabinets / agences
+## Cabinets / agences / groupes
 
 - [SkillWise](https://www.skillwise.fr/)
 - [MobiSkills](https://mobiskill.fr/)
 - [CleverMind](https://www.clevermind.fr/) (+10% client)
 - [NextMondays](https://nextmondays.com/)
+- [Sapiens](https://sapiens.biz/)
 
 ## Communautés
 
