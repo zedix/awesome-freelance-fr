@@ -14,6 +14,8 @@
 - [Creme de la creme](https://cremedelacreme.io) (-15% freelance)
 - [Free-Work](https://www.free-work.com/fr/tech-it) (0% freelance)
 - [Freelance.com](https://plateforme.freelance.com/)
+- [Freelance Day](https://freelance-day.eu/)
+- [Freelance Informatique](https://www.freelance-informatique.fr/)
 - [Freelancer.com](https://www.freelancer.com/)
 - [FreelanceAddict](https://freelanceaddict.com/)
 - [FreelanceFactory](https://freelance-factory.fr/) Plateforme de freelances dédiée à l’industrie  (+8% client)
@@ -51,6 +53,7 @@
 - [CleverMind](https://www.clevermind.fr/) (+10% client)
 - [NextMondays](https://nextmondays.com/)
 - [Sapiens](https://sapiens.biz/)
+- [BlueCoders](https://www.bluecoders.com/)
 
 ## Communautés
 
@@ -71,11 +74,10 @@
 - [Jump](https://www.join-jump.com/)
 - [Embarq](https://www.embarq.fr/)
 - [Freedom Portage](https://freedomportage.com/)
+- [Ad'missions](https://www.admissions.fr/) (groupe freelance.com)
+  - [Webinar Ad'missions](https://www.linkedin.com/events/7062823983015964672)
 - [Prium Portage](https://prium-portage.com/)
 - [STA Portage](https://www.sta-portage.com/)
-
-## Deals
-
 - [Freelance Stack](https://www.freelance-stack.io/)
 - [Secret](https://www.joinsecret.com)
 - [Coalise](https://www.coalise.com/)
@@ -131,7 +133,6 @@
 ## Retraite
 
 - [Caravel](https://www.getcaravel.fr/)
-
 
 ## Media & Podcasts
 
