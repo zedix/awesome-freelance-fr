@@ -42,10 +42,6 @@
 - [Gigster](https://gigster.com/)
 - [PandaPooling](https://www.pandopooling.com/)
 
-## Communautés d’experts indépendants
-
-- [Cober](https://www.cober.fr/)
-
 ## Cabinets / agences / groupes
 
 - [SkillWise](https://www.skillwise.fr/)
@@ -54,6 +50,18 @@
 - [NextMondays](https://nextmondays.com/)
 - [Sapiens](https://sapiens.biz/)
 - [BlueCoders](https://www.bluecoders.com/)
+- [Pentalog](https://www.pentalog.fr/freelancing/)
+- [La Relève](https://www.la-releve.com/)
+- [UpFast](https://www.upfast.io/)
+- [Pickmeup](https://pickmeup.fr/)
+
+## Agents de freelance
+
+- [Jobodia](https://www.linkedin.com/in/sandycohenjobodia/)
+
+## Communautés d’experts indépendants
+
+- [Cober](https://www.cober.fr/)
 
 ## Communautés
 
@@ -111,7 +119,7 @@
 ## Factures / Invoices
 
 - [Facture.net](https://www.facture.net/) (gratuit)
-- [Facturatio.pro](https://www.facturation.pro/)
+- [Facturation.pro](https://www.facturation.pro/)
 - [Henrri](https://www.henrri.com/)
 - [Kolirys](https://www.kolirys.fr/) (payant)
 - [Bonsai](https://www.hellobonsai.com/)
