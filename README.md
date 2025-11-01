@@ -15,6 +15,7 @@
 - [Free-Work](https://www.free-work.com/fr/tech-it) (0% freelance)
 - [Freelance.com](https://plateforme.freelance.com/)
 - [Freelance Day](https://freelance-day.eu/)
+- [Freelance-Dispo](https://www.freelance-dispo.fr/)
 - [Freelance Informatique](https://www.freelance-informatique.fr/)
 - [Freelancer.com](https://www.freelancer.com/)
 - [FreelanceAddict](https://freelanceaddict.com/)
@@ -30,6 +31,7 @@
 - [People per hour](https://www.peopleperhour.com/)
 - [Silkhom](https://www.silkhom.com/)
 - [Talent.io](https://www.talent.io/p/fr-fr/home) (+15% client)
+- [TheProductCrew](https://theproductcrew.io/)
 - [TopTal](https://www.toptal.com/)
 - [UpWay](https://www.upway.io/fr/) (+18% client)
 - [Yeets](https://www.yeets.fr/)
@@ -54,6 +56,8 @@
 - [La Relève](https://www.la-releve.com/)
 - [UpFast](https://www.upfast.io/)
 - [Pickmeup](https://pickmeup.fr/)
+- [Avizio Tech](https://www.avizio.fr/)
+- [Kicklox](https://www.kicklox.com/)
 
 ## Agents de freelance
 
@@ -62,6 +66,7 @@
 ## Communautés d’experts indépendants
 
 - [Cober](https://www.cober.fr/)
+- [Guiild](https://www.guiild.fr/)
 
 ## Communautés
 
